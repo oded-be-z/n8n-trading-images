@@ -1,0 +1,58 @@
+{
+  "ethereum": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/ethereum/ethereum-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/ethereum/ethereum-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/ethereum/ethereum-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/ethereum/ethereum-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/ethereum/ethereum-5.jpg"
+  ],
+  "eur_usd": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/eur-usd/eur-usd-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/eur-usd/eur-usd-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/eur-usd/eur-usd-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/eur-usd/eur-usd-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/eur-usd/eur-usd-5.jpg"
+  ],
+  "btc_usd": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/btc-usd/btc-usd-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/btc-usd/btc-usd-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/btc-usd/btc-usd-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/btc-usd/btc-usd-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/btc-usd/btc-usd-5.jpg"
+  ],
+  "gold": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gold/gold-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gold/gold-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gold/gold-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gold/gold-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gold/gold-5.jpg"
+  ],
+  "xrp": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/xrp/xrp-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/xrp/xrp-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/xrp/xrp-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/xrp/xrp-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/xrp/xrp-5.jpg"
+  ],
+  "usd_cad": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/usd-cad/usd-cad-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/usd-cad/usd-cad-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/usd-cad/usd-cad-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/usd-cad/usd-cad-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/usd-cad/usd-cad-5.jpg"
+  ],
+  "gbp_usd": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gbp-usd/gbp-usd-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gbp-usd/gbp-usd-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gbp-usd/gbp-usd-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gbp-usd/gbp-usd-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/gbp-usd/gbp-usd-5.jpg"
+  ],
+  "aud": [
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/aud/aud-1.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/aud/aud-2.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/aud/aud-3.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/aud/aud-4.jpg",
+    "https://raw.githubusercontent.com/oded-be-z/n8n-trading-images/main/aud/aud-5.jpg"
+  ]
+}
