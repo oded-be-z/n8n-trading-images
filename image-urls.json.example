@@ -1,0 +1,58 @@
+{
+  "ethereum": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/ethereum/ethereum-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/ethereum/ethereum-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/ethereum/ethereum-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/ethereum/ethereum-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/ethereum/ethereum-5.jpg"
+  ],
+  "eur_usd": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/eur-usd/eur-usd-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/eur-usd/eur-usd-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/eur-usd/eur-usd-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/eur-usd/eur-usd-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/eur-usd/eur-usd-5.jpg"
+  ],
+  "btc_usd": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/btc-usd/btc-usd-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/btc-usd/btc-usd-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/btc-usd/btc-usd-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/btc-usd/btc-usd-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/btc-usd/btc-usd-5.jpg"
+  ],
+  "gold": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gold/gold-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gold/gold-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gold/gold-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gold/gold-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gold/gold-5.jpg"
+  ],
+  "xrp": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/xrp/xrp-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/xrp/xrp-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/xrp/xrp-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/xrp/xrp-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/xrp/xrp-5.jpg"
+  ],
+  "usd_cad": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/usd-cad/usd-cad-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/usd-cad/usd-cad-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/usd-cad/usd-cad-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/usd-cad/usd-cad-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/usd-cad/usd-cad-5.jpg"
+  ],
+  "gbp_usd": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gbp-usd/gbp-usd-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gbp-usd/gbp-usd-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gbp-usd/gbp-usd-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gbp-usd/gbp-usd-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/gbp-usd/gbp-usd-5.jpg"
+  ],
+  "aud": [
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/aud/aud-1.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/aud/aud-2.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/aud/aud-3.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/aud/aud-4.jpg",
+    "https://YOUR_STORAGE_ACCOUNT.z6.web.core.windows.net/aud/aud-5.jpg"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "name": "ethereum",
+      "folder": "ethereum",
+      "search_terms": ["ethereum cryptocurrency", "ethereum trading", "ethereum chart", "crypto mining ethereum", "ethereum blockchain"],
+      "images_per_asset": 5
+    },
+    {
+      "name": "eur_usd",
+      "folder": "eur-usd",
+      "search_terms": ["euro dollar exchange", "EUR USD forex", "currency trading euro", "european currency trading", "forex EUR USD chart"],
+      "images_per_asset": 5
+    },
+    {
+      "name": "btc_usd",
+      "folder": "btc-usd",
+      "search_terms": ["bitcoin trading", "bitcoin chart", "cryptocurrency bitcoin", "BTC USD trading", "bitcoin exchange"],
+      "images_per_asset": 5
+    },
+    {
+      "name": "gold",
+      "folder": "gold",
+      "search_terms": ["gold trading", "gold bars investment", "gold price chart", "precious metals gold", "gold market trading"],
+      "images_per_asset": 5
+    },
+    {
+      "name": "xrp",
+      "folder": "xrp",
+      "search_terms": ["ripple XRP cryptocurrency", "XRP trading", "ripple blockchain", "XRP chart", "ripple digital currency"],
+      "images_per_asset": 5
+    },
+    {
+      "name": "usd_cad",
+      "folder": "usd-cad",
+      "search_terms": ["USD CAD forex", "canadian dollar trading", "US canada currency", "forex USD CAD chart", "canadian dollar exchange"],
+      "images_per_asset": 5
+    },
+    {
+      "name": "gbp_usd",
+      "folder": "gbp-usd",
+      "search_terms": ["GBP USD forex", "pound dollar trading", "british pound exchange", "cable forex trading", "GBP USD chart"],
+      "images_per_asset": 5
+    },
+    {
+      "name": "aud",
+      "folder": "aud",
+      "search_terms": ["australian dollar forex", "AUD currency trading", "aussie dollar chart", "australian currency exchange", "AUD USD trading"],
+      "images_per_asset": 5
+    }
+  ],
+  "unsplash": {
+    "api_url": "https://api.unsplash.com",
+    "per_page": 1,
+    "orientation": "landscape"
+  },
+  "azure": {
+    "storage_account_name": "YOUR_STORAGE_ACCOUNT_NAME",
+    "container_name": "$web",
+    "resource_group": "AZAI_group",
+    "subscription_id": "08b0ac81-a17e-421c-8c1b-41b59ee758a3",
+    "location": "swedencentral"
+  }
+}
